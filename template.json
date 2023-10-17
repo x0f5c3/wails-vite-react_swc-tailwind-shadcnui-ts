@@ -1,7 +1,7 @@
 {
-  "name": "Wails + Vite + React + Tailwind + shadcn/ui + TypeScript",
-  "shortname": "wails-vite-react-tailwind-shadcnui-ts",
-  "author": "Mahcks",
-  "description": "A Wails template generated with Vite CLI that includes React, Tailwind, shadcn/ui, and TypeScript",
-  "helpurl": "https://github.com/Mahcks/wails-vite-react-tailwind-shadcnui-ts"
+  "name": "Wails + Vite + React-SWC + Tailwind + shadcn/ui + TypeScript + Bun",
+  "shortname": "wails-vite-react-tailwind-shadcnui-ts-bun",
+  "author": "x0f5c3",
+  "description": "A Wails template generated with Vite CLI that includes React, Tailwind, shadcn/ui, and TypeScript with Bun",
+  "helpurl": "https://github.com/x0f5c3/wails-vite-react_swc-tailwind-shadcnui-ts"
 }
